@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526075848 source:c:\test\parcial\parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1526077328 c:\test\parcial\parcial\lib.h
+
+1526077021 source:c:\test\parcial\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
